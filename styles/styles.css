@@ -1,0 +1,19 @@
+*{ 
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+    outline: none;
+}
+.formulario{
+    font-family: 'Prompt', sans-serif;
+    text-align: center;
+    background-color: khaki;
+    height: 50vh;
+}
+body{
+    background-image: url(https://th.bing.com/th/id/R.d9c2773b1c241854571d1bdad23af4a5?rik=Au1AINhvAWZmRg&riu=http%3a%2f%2f4.bp.blogspot.com%2f-QMGOoEe7ORo%2fUictQ1DRsJI%2fAAAAAAAB4ow%2fQ3F1jbR67fo%2fs1600%2fcerca-del-cielo-y-los-planetas-im%c3%a1genes-de-fantas%c3%ada-close-to-sky-landscape-1920x1200-wallpaper-.jpg&ehk=7N3VXXUF7ESxVu%2fJqYAG2lwflwMsjAwn7hdRxBGsJms%3d&risl=&pid=ImgRaw&r=0);
+    background-size: cover;
+    color: rgb(248, 194, 124); display: flex; justify-content: center; font-size: 60px}
+
+.near{color: aquamarine; display: flex; justify-content: center; font-size: 200px;}
